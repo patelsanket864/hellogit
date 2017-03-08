@@ -1,0 +1,1 @@
+hi this is my first git hub text file..i just make sure that this command is working.
