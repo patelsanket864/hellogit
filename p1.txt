@@ -1,1 +1,2 @@
-hi this is my first git hub text file..i just make sure that this command is working.making changes to the code. i made changes to this file.
+hi this is my first git hub text file..i just make sure that this command is working.making changes to the code. i made changes to this file.this changes make to this file only.take this changes.
+
